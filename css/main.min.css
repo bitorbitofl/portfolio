@@ -54,6 +54,12 @@
         --accent: #9f8be7 !important;
     }
 }
+@media (max-width: 767.98px) {
+    .mxd-header__controls{
+        margin-right: -58px !important;
+        margin-left: 30px !important;
+    }
+}
 /*
  * ------------------------------------------------
  * Table of Contents End
